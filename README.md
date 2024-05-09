@@ -1,6 +1,6 @@
-# Blog Website - THE DAILY PULSE
+# Review Website 
 
-Welcome to the Blog Website project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete blog posts.
+Welcome to the project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete reviews.
 
 ## Getting Started
 
