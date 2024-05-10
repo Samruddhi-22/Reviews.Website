@@ -43,7 +43,7 @@ example:
 ### Frontend
 1. Navigate to the `frontend` directory.
 ```bash
-    cd blog-website
+    cd reviews.website
     
    ```
 2. Run `npm install` to install dependencies.
