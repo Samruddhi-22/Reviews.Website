@@ -35,7 +35,7 @@ example:
     ```
 4. Start the backend server by running `npm start`.
     ```bash
-    cd blog-website
+    cd Reviews.Website
     cd backend
     nodemon index.js
    ```
@@ -43,7 +43,7 @@ example:
 ### Frontend
 1. Navigate to the `frontend` directory.
 ```bash
-    cd reviews.website
+    cd Reviews.Website
     
    ```
 2. Run `npm install` to install dependencies.
