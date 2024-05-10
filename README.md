@@ -21,7 +21,7 @@ Before you begin, make sure you have the following installed on your system:
 
 ## Clone the repository.
    ```bash
-   git clone https://github.com/atharvarakshak/BlogWebsite.git
+  https://github.com/Samruddhi-22/Reviews.Website
    ```
 
 ### Backend
